@@ -1,0 +1,16 @@
+﻿
+@model WebAppLab5.Models.Country
+
+
+    <tr>
+        <td>@Model.ID</td>
+        <th>Code</th>
+        <td>@Model.Code</td>
+        <th>Name</th>
+        <td>@Model.Name</td>
+        <th>Continent</th>
+        <td>@Model.Continent</td>
+        <th>Update</th>
+        <td>@Html.ActionLink("Update", "UpdateNationalFlag", new { code = c.Code })</td>
+    </tr>
+    

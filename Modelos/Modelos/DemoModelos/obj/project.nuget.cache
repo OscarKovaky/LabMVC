@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJObpWgZEr2pX+4bXv0bjAYJjkcLYiY5PRdcOk/SZlszPjMNgFKPqFudhArEFTOh8EtwO/XlfOBEij+ljcjsWw==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\ASP.NET LAB\\Modelos\\Modelos\\DemoModelos\\DemoModelos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar Aguilar\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Oscar Aguilar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Oscar Aguilar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

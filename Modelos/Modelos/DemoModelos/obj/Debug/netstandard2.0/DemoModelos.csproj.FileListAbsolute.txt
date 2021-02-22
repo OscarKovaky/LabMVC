@@ -1,0 +1,9 @@
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\obj\Debug\netstandard2.0\DemoModelos.csprojAssemblyReference.cache
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\obj\Debug\netstandard2.0\DemoModelos.AssemblyInfoInputs.cache
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\obj\Debug\netstandard2.0\DemoModelos.AssemblyInfo.cs
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\obj\Debug\netstandard2.0\DemoModelos.csproj.CoreCompileInputs.cache
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\bin\Debug\netstandard2.0\DemoModelos.deps.json
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\bin\Debug\netstandard2.0\DemoModelos.dll
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\bin\Debug\netstandard2.0\DemoModelos.pdb
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\obj\Debug\netstandard2.0\DemoModelos.dll
+D:\Documentos\ASP.NET LAB\Modelos\Modelos\DemoModelos\obj\Debug\netstandard2.0\DemoModelos.pdb

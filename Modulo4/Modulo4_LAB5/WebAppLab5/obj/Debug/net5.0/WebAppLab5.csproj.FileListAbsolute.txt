@@ -1,0 +1,8 @@
+D:\Documentos\ASP.NET LAB\Modulo4\Modulo4_LAB5\WebAppLab5\obj\Debug\net5.0\WebAppLab5.csprojAssemblyReference.cache
+D:\Documentos\ASP.NET LAB\Modulo4\Modulo4_LAB5\WebAppLab5\obj\Debug\net5.0\WebAppLab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\ASP.NET LAB\Modulo4\Modulo4_LAB5\WebAppLab5\obj\Debug\net5.0\WebAppLab5.AssemblyInfoInputs.cache
+D:\Documentos\ASP.NET LAB\Modulo4\Modulo4_LAB5\WebAppLab5\obj\Debug\net5.0\WebAppLab5.AssemblyInfo.cs
+D:\Documentos\ASP.NET LAB\Modulo4\Modulo4_LAB5\WebAppLab5\obj\Debug\net5.0\WebAppLab5.csproj.CoreCompileInputs.cache
+D:\Documentos\ASP.NET LAB\Modulo4\Modulo4_LAB5\WebAppLab5\obj\Debug\net5.0\WebAppLab5.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\ASP.NET LAB\Modulo4\Modulo4_LAB5\WebAppLab5\obj\Debug\net5.0\WebAppLab5.RazorAssemblyInfo.cache
+D:\Documentos\ASP.NET LAB\Modulo4\Modulo4_LAB5\WebAppLab5\obj\Debug\net5.0\WebAppLab5.RazorAssemblyInfo.cs

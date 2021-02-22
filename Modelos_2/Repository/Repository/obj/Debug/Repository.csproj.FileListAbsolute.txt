@@ -1,0 +1,6 @@
+D:\Documentos\ASP.NET LAB\CapacitacionASPNETMVC\Sesion3\Repository\Repository\bin\Debug\Repository.dll
+D:\Documentos\ASP.NET LAB\CapacitacionASPNETMVC\Sesion3\Repository\Repository\bin\Debug\Repository.pdb
+D:\Documentos\ASP.NET LAB\CapacitacionASPNETMVC\Sesion3\Repository\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Documentos\ASP.NET LAB\CapacitacionASPNETMVC\Sesion3\Repository\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Documentos\ASP.NET LAB\CapacitacionASPNETMVC\Sesion3\Repository\Repository\obj\Debug\Repository.dll
+D:\Documentos\ASP.NET LAB\CapacitacionASPNETMVC\Sesion3\Repository\Repository\obj\Debug\Repository.pdb

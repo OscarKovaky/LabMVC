@@ -1,0 +1,15 @@
+﻿
+
+@model IEnumerable<WebApplicationLAB4.Models.Product>
+
+
+
+
+@foreach (var t in Model)
+{
+
+    @Html.Partial("_RoleTableRow", t);
+
+}
+
+
